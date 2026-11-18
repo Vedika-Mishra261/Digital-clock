@@ -1,4 +1,3 @@
-# Digital-clock
 # Digital Clock
 
 A simple and responsive Digital Clock built using HTML5, CSS3, and Vanilla JavaScript. It displays the current local time in hours, minutes, and seconds and automatically updates every second.
